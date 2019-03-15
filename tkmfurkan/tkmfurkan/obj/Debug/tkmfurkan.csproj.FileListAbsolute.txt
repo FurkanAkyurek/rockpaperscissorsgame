@@ -1,0 +1,10 @@
+C:\Users\Furkan\source\repos\tkmfurkan\tkmfurkan\bin\Debug\tkmfurkan.exe.config
+C:\Users\Furkan\source\repos\tkmfurkan\tkmfurkan\bin\Debug\tkmfurkan.exe
+C:\Users\Furkan\source\repos\tkmfurkan\tkmfurkan\bin\Debug\tkmfurkan.pdb
+C:\Users\Furkan\source\repos\tkmfurkan\tkmfurkan\obj\Debug\tkmfurkan.csprojAssemblyReference.cache
+C:\Users\Furkan\source\repos\tkmfurkan\tkmfurkan\obj\Debug\tkmfurkan.Form1.resources
+C:\Users\Furkan\source\repos\tkmfurkan\tkmfurkan\obj\Debug\tkmfurkan.Properties.Resources.resources
+C:\Users\Furkan\source\repos\tkmfurkan\tkmfurkan\obj\Debug\tkmfurkan.csproj.GenerateResource.cache
+C:\Users\Furkan\source\repos\tkmfurkan\tkmfurkan\obj\Debug\tkmfurkan.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\tkmfurkan\tkmfurkan\obj\Debug\tkmfurkan.exe
+C:\Users\Furkan\source\repos\tkmfurkan\tkmfurkan\obj\Debug\tkmfurkan.pdb
